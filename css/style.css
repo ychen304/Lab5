@@ -33,7 +33,7 @@ table,td
  	border-collapse: collapse;
  	margin-left:auto;
  	margin-right:auto;
- 	margin-top:10;
+ 	margin-top:auto;
   	text-align: center;
   
     border: 1px solid #FFFFFF;
@@ -46,5 +46,5 @@ footer
 
   width: 100%;
    color: #FFFFFF;
-   text-align: left;
+   text-align: center;
 }
