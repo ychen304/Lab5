@@ -1,10 +1,47 @@
 html 
 {
-  font-family: 'Poppins', sans-serif;
-  background-color: black;
+ 	font-family: 'Poppins', sans-serif;
+ 	font-family: 'Patua One', cursive;
+ 	background-color: rgb(0,0,0);
+ 	color: #FFFFFF;
+ 	width: 100%;
 }
 
-table, th, td 
+body
 {
-  border: 1px solid white;
+	font-family: 'Patua One', cursive;
+margin: 0;
+background-image: url("solarsystem.jpg");
+	
+}
+.header
+{
+
+	  padding: 5px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+table,td
+{
+	font-family: 'Poppins', sans-serif;
+ 	border-collapse: collapse;
+  	width: 70%;
+  	text-align: center;
+    padding: 15px;
+    border: 1px solid #FFFFFF;
+  	padding: 10px;
+}
+
+
+footer
+{
+
+  width: 100%;
+   color: black;
+   text-align: left;
+
+
 }
