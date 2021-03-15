@@ -9,19 +9,20 @@ html
 
 body
 {
-	font-family: 'Patua One', cursive;
+	
 	background-image: url("solarsystem.jpg");
-	backgroud-c
+	  background-repeat: no-repeat;
+    background-size: cover;
 	
 }
 .header
 {
-
-   	padding: 30px;
+	font-family: 'Patua One', cursive;
+   		padding: 15px;
       text-align: center;
-      background: #bc1a6b;
       color: white;
       font-size: 30px;
+       margin: 10px 70px 75px 70px;
 }
 
 table,td
