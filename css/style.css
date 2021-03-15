@@ -18,10 +18,6 @@ h1
     padding: 50px 0 50px 0;
 }
 
-table
-{
-	position: relative;
-}
 table,td,tr
 {
 	font-family: 'Poppins', sans-serif;
@@ -34,7 +30,6 @@ table,td,tr
   	height: 70px;
     border: 1px solid #FFFFFF;
 }
-
 
 footer
 {
