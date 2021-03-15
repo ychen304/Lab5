@@ -10,24 +10,25 @@ html
 body
 {
 	font-family: 'Patua One', cursive;
-margin: 0;
-background-image: url("solarsystem.jpg");
+	background-image: url("solarsystem.jpg");
+	backgroud-c
 	
 }
 .header
 {
 
-	padding: 5px;
-  text-align: center;
-  color: white;
-  font-size: 30px;
+   	padding: 30px;
+      text-align: center;
+      background: #bc1a6b;
+      color: white;
+      font-size: 30px;
 }
 
 table,td
 {
 	font-family: 'Poppins', sans-serif;
  	border-collapse: collapse;
-  	width: 100%;
+  	width: 50%;
   	text-align: center;
     padding: 15px;
     border: 1px solid #FFFFFF;
